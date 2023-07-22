@@ -1,0 +1,21 @@
+{
+  "name": "flowbite-svelte-starter",
+  "version": "0.0.10",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "flowbite-svelte-starter": "./src/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "chalk": "4.1.2",
+    "inquirer": "^9.2.8",
+    "ora": "^6.3.1"
+  },
+  "keywords": [],
+  "author": "Vasu",
+  "license": "ISC"
+}
