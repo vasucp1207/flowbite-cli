@@ -1,5 +1,3 @@
-Scaffold a stater flowvite svelte template.
-
 ## Installation🦄
 
 ```bash
