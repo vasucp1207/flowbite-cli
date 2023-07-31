@@ -1,5 +1,5 @@
 ## Installation🦄
 
 ```bash
-npm i flowbite-svelte-starter
+npx flowbite-svelte-starter
 ```
